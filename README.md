@@ -32,14 +32,6 @@ This Maintenance Management System addresses key challenges in maintenance proce
 6. **Knowledge Retention and Continuity**
    - Maintain a knowledge base of maintenance actions, supporting continuity and skill transfer within the organization.
 
-## User Roles
-
-- **Technician**
-  - View and manage active faults, complete fault resolutions, and update maintenance records.
-  - Access scheduled maintenance and record completion details.
-
-- **Production Supervisor**
-  - Oversee active fault notifications, create and delete fault reports, and view maintenance history for data analysis.
 
 ## Getting Started
 
