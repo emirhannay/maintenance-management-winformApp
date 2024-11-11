@@ -1,0 +1,76 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+.vscode/
+.vs/
+.DS_Store
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+Generated\
+
+# Build Results
+bin/
+obj/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# NLog config files
+*.log
+
+# SQL Server LocalDB
+*.mdf
+*.ldf
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userprefs
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Exclude app config files if you store sensitive information there
+appsettings.json
+appsettings.*.json
+
+# Rider project settings
+.idea/
+
+# JetBrains Rider
+.idea/
+.idea_modules/
+*.iml
+.idea/vcs.xml
+.idea/workspace.xml
+
+# Azure Folder
+.publishprofiles/
+
+# Resharper files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+resharper.xml
+
+# WinForm Designer Generated Files
+**/*.Designer.cs

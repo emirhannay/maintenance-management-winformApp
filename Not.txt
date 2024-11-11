@@ -1,0 +1,1 @@
+Veritabanı scriptini çalıştırabilmek için öncelikle MaintenanceManagement adlı bir veritabanı oluşturulmalı sonrasında script çalıştırılmalı.
